@@ -1,0 +1,12 @@
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\bin\Debug\GestionDivers.exe
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\bin\Debug\GestionDivers.pdb
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\obj\x86\Debug\GestionDivers.Properties.Resources.resources
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\obj\x86\Debug\GestionDivers.csproj.GenerateResource.Cache
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\obj\x86\Debug\GestionDivers.exe
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\obj\x86\Debug\GestionDivers.pdb
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\bin\Debug\MySql.Data.dll
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\obj\x86\Debug\GestionDivers.csprojResolveAssemblyReference.cache
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\obj\x86\Debug\GestionDivers.menu.resources
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\bin\Debug\GestionDivers.exe.config
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\obj\x86\Debug\GestionDivers.Form_client.resources
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\B3\GestionDivers\GestionDivers\obj\x86\Debug\GestionDivers.Form_produit.resources
